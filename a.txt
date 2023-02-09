@@ -1,2 +1,7 @@
 
+<<<<<<< HEAD
 This is 2nd change 
+=======
+This is the 1st change 
+This is A repository
+>>>>>>> 9bcbbcd (Commit from Repo a)
