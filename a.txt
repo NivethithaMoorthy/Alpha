@@ -1,9 +1,2 @@
-<< HEAD
-This is A repository
 
-
-
-
-
-
->>>>>>> 06409e1 (Commit from Repo b)
+This is 2nd change 
